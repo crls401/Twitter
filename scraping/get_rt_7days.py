@@ -1,5 +1,5 @@
 """
-	Jorge Sánchez Pastor
+	Carles Vañó Agulló & Jorge Sánchez Pastor
     2022-02-10
 	Este script contiene funciones basicas con tweepy
 	esta enfocado a conseguir los retweets de un tweet dado por id 
